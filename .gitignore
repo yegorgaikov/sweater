@@ -6,6 +6,7 @@ target/
 
 
 .idea
+uploads
 *.iws
 *.iml
 *.ipr
